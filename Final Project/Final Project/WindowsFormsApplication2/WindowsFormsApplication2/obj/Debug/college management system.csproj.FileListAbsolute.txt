@@ -1,0 +1,25 @@
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\college management system.csprojResolveAssemblyReference.cache
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.New_Admission.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\college management system.csproj.GenerateResource.Cache
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UpgradeSemester.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Fees.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Search_Student.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Student_Individual_Detail.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Add_Teacher.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Search_Teacher.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Remove_Student.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.About_Us.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.DashBoard.resources
+D:\esoft\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Events.resources
+D:\esoft\Support Materials-20210821T022035Z-001\Final Project\New folder\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\esoft\Support Materials-20210821T022035Z-001\Final Project\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\esoft\Support Materials-20210821T022035Z-001\Final Project\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\esoft\Support Materials-20210821T022035Z-001\Final Project\New folder\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\college management system.csprojResolveAssemblyReference.cache
